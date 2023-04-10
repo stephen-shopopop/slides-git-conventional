@@ -60,7 +60,7 @@ layout: cover
 class: text-center
 ---
 
-# Conventional commit
+# Conventional commits
 
 ```ts
 git commit
