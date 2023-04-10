@@ -1,12 +1,12 @@
 ---
 theme: seriph
-titleTemplate: '%s - EventEmitter'
+titleTemplate: '%s - git-commit'
 # enable presenter mode, can be boolean, 'dev' or 'build'
 presenter: true
 download: true
 # enable slide recording, can be boolean, 'dev' or 'build'
 record: 'build'
-exportFilename: eventEmitter-exported
+exportFilename: git-conventionnal-exported
 export:
   format: pdf
   timeout: 30000
