@@ -68,7 +68,7 @@ git commit
 
 <br>
 
-<img src="https://nodejs.dev/static/images/brand/logos-js-right/light.svg" class="m-auto" />
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" class="m-auto" />
 
 ---
 layout: center
