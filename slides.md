@@ -68,7 +68,7 @@ git commit
 
 <br>
 
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" class="m-auto" />
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" class="m-auto h-40" />
 
 ---
 layout: center
@@ -108,7 +108,7 @@ Le type du commit décrit l’origine du changement. Il peut prendre différente
 - style: Changement lié au style du code (indentation, point virgule, etc.);
 - test: Ajout ou modification de tests;
 - revert: Annulation d’un précédent commit;
-- chore: Toute autre modification (mise à jour de version par exemple). Pour chacun des types, vous pouvez également utiliser un système d’emoji comme gitmoji. gitmoji
+- chore: Toute autre modification (mise à jour de version par exemple). Pour chacun des types, vous pouvez également utiliser un système d’emoji comme gitmoji.
 
 ---
 layout: center
@@ -118,13 +118,13 @@ layout: center
 
 Cet élément facultatif indique simplement le contexte du commit. Il s’agit des composants de notre projet, voici une liste non exhaustive :
 
-- controller;
-- route;
-- middleware;
-- view;
-- config;
-- service;
-- etc.
+- controller
+- route
+- middleware
+- view
+- config
+- service
+- etc...
 
 ---
 layout: center
@@ -134,7 +134,7 @@ layout: center
 
 Le sujet décrit succinctement la modification. Certaines règles doivent être respectées :
 
-Le sujet doit faire moins de 50 caractères; Les verbes doivent être à l’impératif (add, update, change, remove, etc.); La première lettre ne doit pas être en majuscule; Le sujet ne doit pas se terminer par un point. Le corps du message
+Le sujet doit faire moins de 50 caractères. Les verbes doivent être à l’impératif (add, update, change, remove, etc.). La première lettre ne doit pas être en majuscule. Le sujet ne doit pas se terminer par un point.
 
 ---
 layout: center
