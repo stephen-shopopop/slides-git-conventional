@@ -82,6 +82,10 @@ layout: center
 - Une historique git difficile a lire (soit tout est feat, soit tout est fix, ...)
 - Impossibilite d´automatiser en l´état certaines tâches.
 
+```shell
+git log --grep="fix"
+```
+
 ---
 layout: center
 ---
@@ -193,7 +197,7 @@ layout: center
 
 # ENSUITE ...
 
-Mettre en place des hooks github sur les projets pour verifier les commits autant en local que via un CI. Pour cela, nous pouvons utiliser:
+Mettre en place des hooks github sur les projets pour verifier les commits autant en local que via des outils d'intégration. Pour cela, nous pouvons utiliser:
 
 - [simple-git-hooks](https://github.com/toplenboren/simple-git-hooks)
 - [commitlint](https://commitlint.js.org/#/)
