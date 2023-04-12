@@ -15,7 +15,7 @@ export:
   withToc: false
 background: https://source.unsplash.com/collection/298137/1920x1080
 class: text-center
-highlighter: shiki
+highlighter: shikip
 lineNumbers: true
 info: |
   ## Team's Shopopop
@@ -203,7 +203,7 @@ __exemple pour une validation local:__
 
 ```json
  "simple-git-hooks": {
-    "pre-commit": "npx commitlint --edit $1 & npm run lint",
+    "pre-commit": "npx commitlint --edit $1",
 ```
 
 __exemple pour une validation sur une PR:__
@@ -216,7 +216,7 @@ layout: center
 
 # Versionning, release
 
-Afin de faciliter le versionning et/ou la publication de projets ou packages, un outils tel que [changeset](https://github.com/changesets/changesets) facilite cette tache et peut etre automatiser via differents pipe d´integrations.
+Afin de faciliter le versionning et/ou la publication de projets ou packages, un outils tel que [changeset](https://github.com/changesets/changesets) facilite cette tâche et peut etre automatiser via differents pipe d´integrations.
 
 Il existe egalement des github Actions comme [changelog-action](https://github.com/requarks/changelog-action) pour generer des releases ainsi que des changelogs.
 
