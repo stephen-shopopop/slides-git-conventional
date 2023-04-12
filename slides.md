@@ -74,6 +74,18 @@ git commit
 layout: center
 ---
 
+# Issues
+
+- Publication et versionning des packages laborieuse et fastidieuse.
+- Génération des releases sur nos differents projets fait par des opérations manuels.
+- Versionning de nos projets fait de façon humaine (minor, major, etc...)
+- Une historique git difficile a lire (soit tout est feat, soit tout est fix, ...)
+- Impossibilite d´automatiser en l´état certaines tâches.
+
+---
+layout: center
+---
+
 # Git commit
 
 Nommer les messages de commits. Le message d’un commit doit être clair et concis, il doit indiquer ce qui a été modifié et la raison de cette modification. La convention de nommage la plus utilisée est la “Conventional Commits“.
