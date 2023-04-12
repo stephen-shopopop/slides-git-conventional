@@ -185,6 +185,7 @@ layout: center
 - [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [Gitmoji](https://gitmoji.dev)
 - [VsCode extension](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits)
+- [commitizen](https://github.com/commitizen/cz-cli)
 
 ---
 layout: center
